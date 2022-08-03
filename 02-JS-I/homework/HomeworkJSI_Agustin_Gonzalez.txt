@@ -1,0 +1,13 @@
+Descripcion breve de los siguientes elementos:
+
+VARIABLES: Son los elementos que reservamos para asignar un valor predeterminado. Le pedimos al sistema que guarde determinado valor, ya sea letras o numeros, y le asigne otro valor fijo. Se utiliza el signo igual (=) y lo que se encuentra a su derecha se almacena dentro de la variable que pongamos a la izquierda
+
+STRINGS: Basicamente son bloques alfanumericos que pueden, o no, tener un significado real. Se encierran entre comillas. Normalmente lo usamos para escribir palabras comunes
+
+FUNCIONES-ARGUMENTOS: Las funciones son la forma de explicarle al programa lo que queremos hacer y los argumentos son los elementos que se van a tener en cuenta para ser estudiados y devolver un valor.
+
+FUNCIONES-RETURN: Para no tener que escribir muchas veces el mismo codigo, o para sinplificar funciones repetitivas se usan funciones que pueden repetir una misma funcion determinada cantidad de veces o bien, como es este caso de RETURN, saltar a otra parte del codigo 
+
+DECLARACIONES: Simplemente es una manera de dar una CONDICION, es decir, el sistema nos devolvera un valor en caso de cumplir la condicion o bien otro valor si no la cumple
+
+VALORES BOOLEANOS: Son las respuestas que tienen solo caracter de Verdadero o Falso
