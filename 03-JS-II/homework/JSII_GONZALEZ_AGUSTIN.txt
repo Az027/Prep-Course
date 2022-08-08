@@ -1,0 +1,17 @@
+Explicacion de los siguientes elementos:
+
+FOR: Cuando necesitamos realizar tareas repetitivas o bucles utilizaremos esta funcion, a la cual debemos entregarle tres valores.
+		1_ La definicion de la variable y desde que valor comenzara a tener efecto la función
+		2_ La definicion del ultimo valor a la que debe llegar la variable antes de finalizar el bucle
+		3_ El incremento que debe sufrir la variable cada vez que el sistema realiza todas las instrucciones del bucle
+
+OPERADORES LOGICOS
+
+Cuando tenemos que revisar condiciones que se deben o no cumplir para continuar con el flujo del programa tenemos la posibilidad de tener mas de una condicion y en tal caso necesitamos explicarle al programa como proseguir en caso de que alguna de las condiciones no se cumpla, o bien ninguna se cumpla o todas se cumplan. Por tal motivo es que existen los siguientes operadores logicos
+
+&&: Se da como valido solo cuando TODAS las condiciones son correctas
+
+||: Se da como valido cuando AL MENOS UNA condicion es correcta
+
+!: Implica lo contrario de la igualdad o el resultado esperado
+
