@@ -1,0 +1,3 @@
+Los "Arrays" son basicamente un arreglo de elementos, ya que para querer definir varios elementos del mismo tipo o relacionados entre si, podemos crearlos de manera agrupada y ordenada usando los arreglos matriciales.
+
+n arreglo matricial se define como una variable que contiene la cantidad de elementos que nosotros deseamos, encerrados entre corchetes y separados por comas (puede ser un valor de cualquier tipo, numero, booleano, string, etc) y que luego podemos usarlo para operar sobre ellos, hacer listados, agregar o eliminar elementos, etc
